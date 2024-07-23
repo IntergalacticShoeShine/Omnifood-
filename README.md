@@ -1,2 +1,3 @@
 # Omnifood-
-HTML5 project + CSS with intermediate level coding and devices
+HTML5 project with special attention to spacing, flexbox and grids, colors, tints, fonts, etc. 
+
